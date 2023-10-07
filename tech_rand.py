@@ -90,6 +90,8 @@ for tech in choose_techs.items():
             str(tech[1]["cost"]).rjust(6)
         )
 
+print("")
+
 
 # print("\n\n[すべての技能]\n")
 
